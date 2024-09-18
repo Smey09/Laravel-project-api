@@ -182,17 +182,26 @@ php artisan passport:install
     ```
 
 5. Serve the application:
+
     ```bash
     php artisan serve
     ```
 
+---
+
 ## Test My Front-end
 
+You can explore the front-end built with Flutter by visiting the GitHub repository or cloning the project using the following commands:
+
+-   **View on GitHub**: [front-end-app-flutter](https://github.com/Smey09/front-end-app-flutter)
+
+-   **Clone the repository**:
+
     ```bash
-    front-end-app-flutter
-    Views Github : https://github.com/Smey09/front-end-app-flutter
-    Git Clone : https://github.com/Smey09/front-end-app-flutter.git
+    git clone https://github.com/Smey09/front-end-app-flutter.git
     ```
+
+---
 
 ## License
 
