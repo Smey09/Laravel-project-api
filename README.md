@@ -157,7 +157,7 @@ php artisan passport:install
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/laravel-project-api.git
+    git clone https://github.com/Smey09/Laravel-project-api.git
     cd laravel-project-api
     ```
 
